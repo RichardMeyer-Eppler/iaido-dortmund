@@ -1,0 +1,12 @@
+---
+title: "Europalehrgang in Duisburg beendet"
+date: 2023-09-04
+categories: [Europalehrgänge, Daniel DeNoon, Yasutomo Miyazawa, Duisburg] # self-defined categories
+lang: de
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Vom 1.
+bis zum 3.
+September 2023 fand der Europalehrgang in Duisburg mit Yasutomo Miyazawa Sensei und Daniel DeNoon Sensei statt.
+Ein wirklich toller Lehrgang!

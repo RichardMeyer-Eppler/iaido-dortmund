@@ -1,6 +1,6 @@
 ---
 title: "Anmeldung für den BLG Potsdam freigeschaltet"
-description: "Ein kurzer Testblog Eintrag, yeah!"
+description: "Der Lehrgang findet vom 9-10. Dezember 2023 statt, Meldefrist ist Samstag, der 25. November."
 date: 2023-09-28
 categories: [Bundeslehrgänge, Martin Peter, Potsdam] # self-defined categories
 lang: de
