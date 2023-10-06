@@ -1,9 +1,23 @@
 ---
-title: "About"
+title: "Über uns"
+lang: de
 ---
 
-About this site
+## Iaido
 
-```{r}
-1 + 1
-```
+Iaido -- der Weg des Schwertes -- ist eine traditionelle japanische Kampfkunst.
+Iaido wird größtenteils mithilfe von festgelegten Bewegungsabläufen, sogenannten *Katas*, erlernt, in denen auf unterschiedliche Bedrohungsszenarien reagiert wird.
+Typische Elemente einer Kata sind dabei das Ziehen des Schwertes, welches nahtlos in einen Schnitt oder in einen Block übergeht, das symbolische Reinigen der Klinge nach Überwältigung des imaginären Gegners bzw.
+der imaginären Gegner, sowie das Zurückführen des Schwertes in die Scheide.
+Im angestrebten Idealfall bildet bei der Ausführung der Techniken Körper, Geist und Schwert eine harmonische Einheit (*ki ken tai no ichi*).
+Dadurch, dass Iaido größtenteils ohne Partner trainiert wird, sind Tempo und Trainingsintensität weitestgehend selbstbestimmt.
+Das langjährige Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen.
+Iaido wird oft bis ins hohe Alter trainiert, kann also mit sehr unterschiedlichen körperlichen Voraussetzungen ausgeübt werden.
+
+## Muso Jikiden Eishin Ryu
+
+Die in Dortmund trainierte Stilrichtung des Iaido ist das *Muso Jikiden Eishin Ryu*, das der Überlieferung nach vor 450 Jahren in Japan entstand.
+Es beansprucht eine ununterbrochene Linie der persönlichen Weitergabe bis in die Gegenwart.
+Über das Training im Tempel hinaus können regelmäßig Lehrgänge des [Muso Jikiden Eishin Ryu Verbands Deutschland e.V.](http://iaidoverband.org/)
+besucht werden.
+Auf der Webseite des Verbandes finden sich auch weitere Informationen zum Stil und zu unseren japanischen Lehrern.
