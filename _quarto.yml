@@ -5,12 +5,14 @@ website:
   title: "MJER Iaido Dortmund"
   site-url: "https://www.iaido-dortmund.de"
   description: "Traditionelle japanische Schwertkampfkunst Iaido in Dortmund"
+  favicon: "images/favicon/fav-icon_01.png"
   search:
     location: sidebar
   sidebar:
     style: "docked"
     pinned: true
     search: true
+    logo: "images/favicon/fav-icon_01.png"
     contents:
       - index.qmd
       - blog.qmd
