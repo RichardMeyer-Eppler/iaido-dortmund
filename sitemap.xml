@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://RichardMeyer-Eppler.github.io/iaido-dortmund/index.html</loc>
-    <lastmod>2023-09-29T09:45:30.640Z</lastmod>
+    <loc>https://www.iaido-dortmund.de/training.html</loc>
+    <lastmod>2023-10-06T09:08:28.513Z</lastmod>
   </url>
   <url>
-    <loc>https://RichardMeyer-Eppler.github.io/iaido-dortmund/blog/2023-09-28_Hello_World/index.html</loc>
-    <lastmod>2023-09-29T09:45:28.143Z</lastmod>
+    <loc>https://www.iaido-dortmund.de/blog.html</loc>
+    <lastmod>2023-10-06T09:08:27.076Z</lastmod>
   </url>
   <url>
-    <loc>https://RichardMeyer-Eppler.github.io/iaido-dortmund/about.html</loc>
-    <lastmod>2023-09-29T09:45:27.633Z</lastmod>
+    <loc>https://www.iaido-dortmund.de/about.html</loc>
+    <lastmod>2023-10-06T09:08:25.405Z</lastmod>
   </url>
   <url>
-    <loc>https://RichardMeyer-Eppler.github.io/iaido-dortmund/blog.html</loc>
-    <lastmod>2023-09-29T09:45:28.751Z</lastmod>
+    <loc>https://www.iaido-dortmund.de/blog/2023-09-28 BLG Potsdam/index.html</loc>
+    <lastmod>2023-10-06T09:08:26.136Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.iaido-dortmund.de/index.html</loc>
+    <lastmod>2023-10-06T09:08:27.821Z</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>MJER Iaido Dortmund</title>
+<link>https://www.iaido-dortmund.de/blog.html</link>
+<atom:link href="https://www.iaido-dortmund.de/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Traditionelle japanische Schwertkampfkunst Iaido in Dortmund</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Wed, 27 Sep 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Anmeldung für den BLG Potsdam freigeschaltet</title>
+  <link>https://www.iaido-dortmund.de/blog/2023-09-28 BLG Potsdam/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Auf der Verbandshomepage ist die <a href="https://iaidoverband.org/lehrgaenge/">Anmeldung für den Bundeslehrgang in Potsdam</a> vom 9-10. Dezember 2023 freigeschaltet. Meldefrist ist Samstag, der 25. November. Der Lehrgang wird wie gewohnt unter Leitung unseres Bundestrainers, Martin Peter Sensei, stattfinden.</p>
+
+
+
+ ]]></description>
+  <category>Bundeslehrgänge</category>
+  <category>Martin Peter</category>
+  <category>Potsdam</category>
+  <guid>https://www.iaido-dortmund.de/blog/2023-09-28 BLG Potsdam/index.html</guid>
+  <pubDate>Wed, 27 Sep 2023 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

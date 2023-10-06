@@ -1,30 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "iaido-dortmund",
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Zum ersten Training bitte eine lange Hose und bequeme Sportkleidung mitbringen. Falls von anderen Kampfkünsten vorhanden können auch gerne schon Gi und Hakama getragen werden. Holzschwerter (Bokken bzw. Bokuto) für den Einstieg sind vorhanden. Wer hat kann auch gerne einen Budo Gürtel (Obi) mitbringen, der das Schwert an der Hüfte halten und den Unterbauch fixieren soll."
   },
   {
-    "objectID": "blog/2023-09-28_Hello_World/index.html",
-    "href": "blog/2023-09-28_Hello_World/index.html",
-    "title": "Hallo Welt!",
+    "objectID": "training.html#was-brauche-ich-für-das-erste-training",
+    "href": "training.html#was-brauche-ich-für-das-erste-training",
+    "title": "Training",
     "section": "",
-    "text": "Das ist doch wirklich die Höhe! Wahnsinn! Slight change!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Zum ersten Training bitte eine lange Hose und bequeme Sportkleidung mitbringen. Falls von anderen Kampfkünsten vorhanden können auch gerne schon Gi und Hakama getragen werden. Holzschwerter (Bokken bzw. Bokuto) für den Einstieg sind vorhanden. Wer hat kann auch gerne einen Budo Gürtel (Obi) mitbringen, der das Schwert an der Hüfte halten und den Unterbauch fixieren soll."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Iaido Dortmund Blog",
+    "title": "Aktuelles",
     "section": "",
-    "text": "Hallo Welt!\n\n\n\nTest\n\n\n\nEin kurzer Testblog Eintrag, yeah!\n\n\n\n\n\n\nSep 28, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Anmeldung für den BLG Potsdam freigeschaltet\n\n\n\nBundeslehrgänge\n\n\nMartin Peter\n\n\nPotsdam\n\n\n\nEin kurzer Testblog Eintrag, yeah!\n\n\n\n\n\n\n28.09.2023\n\n\n\n\n\n\n\n\nKeine Treffer"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Über uns",
+    "section": "",
+    "text": "Iaido – der Weg des Schwertes – ist eine traditionelle japanische Kampfkunst. Iaido wird größtenteils mithilfe von festgelegten Bewegungsabläufen, sogenannten Katas, erlernt, in denen auf unterschiedliche Bedrohungsszenarien reagiert wird. Typische Elemente einer Kata sind dabei das Ziehen des Schwertes, welches nahtlos in einen Schnitt oder in einen Block übergeht, das symbolische Reinigen der Klinge nach Überwältigung des imaginären Gegners bzw. der imaginären Gegner, sowie das Zurückführen des Schwertes in die Scheide. Im angestrebten Idealfall bildet bei der Ausführung der Techniken Körper, Geist und Schwert eine harmonische Einheit (ki ken tai no ichi). Dadurch, dass Iaido größtenteils ohne Partner trainiert wird, sind Tempo und Trainingsintensität weitestgehend selbstbestimmt. Das langjährige Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen. Iaido wird oft bis ins hohe Alter trainiert, kann also mit sehr unterschiedlichen körperlichen Voraussetzungen ausgeübt werden."
+  },
+  {
+    "objectID": "about.html#iaido",
+    "href": "about.html#iaido",
+    "title": "Über uns",
+    "section": "",
+    "text": "Iaido – der Weg des Schwertes – ist eine traditionelle japanische Kampfkunst. Iaido wird größtenteils mithilfe von festgelegten Bewegungsabläufen, sogenannten Katas, erlernt, in denen auf unterschiedliche Bedrohungsszenarien reagiert wird. Typische Elemente einer Kata sind dabei das Ziehen des Schwertes, welches nahtlos in einen Schnitt oder in einen Block übergeht, das symbolische Reinigen der Klinge nach Überwältigung des imaginären Gegners bzw. der imaginären Gegner, sowie das Zurückführen des Schwertes in die Scheide. Im angestrebten Idealfall bildet bei der Ausführung der Techniken Körper, Geist und Schwert eine harmonische Einheit (ki ken tai no ichi). Dadurch, dass Iaido größtenteils ohne Partner trainiert wird, sind Tempo und Trainingsintensität weitestgehend selbstbestimmt. Das langjährige Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen. Iaido wird oft bis ins hohe Alter trainiert, kann also mit sehr unterschiedlichen körperlichen Voraussetzungen ausgeübt werden."
+  },
+  {
+    "objectID": "about.html#muso-jikiden-eishin-ryu",
+    "href": "about.html#muso-jikiden-eishin-ryu",
+    "title": "Über uns",
+    "section": "Muso Jikiden Eishin Ryu",
+    "text": "Muso Jikiden Eishin Ryu\nDie in Dortmund trainierte Stilrichtung des Iaido ist das Muso Jikiden Eishin Ryu, das der Überlieferung nach vor 450 Jahren in Japan entstand. Es beansprucht eine ununterbrochene Linie der persönlichen Weitergabe bis in die Gegenwart. Über das Training im Tempel hinaus können regelmäßig Lehrgänge des Muso Jikiden Eishin Ryu Verbands Deutschland e.V. besucht werden. Auf der Webseite des Verbandes finden sich auch weitere Informationen zum Stil und zu unseren japanischen Lehrern."
+  },
+  {
+    "objectID": "blog/2023-09-28 BLG Potsdam/index.html",
+    "href": "blog/2023-09-28 BLG Potsdam/index.html",
+    "title": "Anmeldung für den BLG Potsdam freigeschaltet",
+    "section": "",
+    "text": "Auf der Verbandshomepage ist die Anmeldung für den Bundeslehrgang in Potsdam vom 9-10. Dezember 2023 freigeschaltet. Meldefrist ist Samstag, der 25. November. Der Lehrgang wird wie gewohnt unter Leitung unseres Bundestrainers, Martin Peter Sensei, stattfinden."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Herzlich willkommen auf den Webseiten des Dortmunder Dojos für die traditionelle japanische Schwertkampfkunst Iaido!\nIm Iaido werden feste Bewegungsformen einstudiert, die mit Schwert und größtenteils ohne Partner trainiert werden. Das Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen. Die in Dortmund trainierte Stilrichtung ist das Muso Jikiden Eishin Ryu, das vor 450 Jahren in Japan entstanden ist. Der Stil wurde ununterbrochen bis in die Gegenwart von Lehrer zu Schüler weitergegeben.\n\n\n\n\n\n\nVorsicht\n\n\n\nDie Webseite ist im Aufbau befindlich und ändert sich derzeit noch häufig!\n\n\nNational sind wir Mitglied des Muso Jikiden Eishin Ryu Verband Deutschland e.V.. Zusätzlich sind wir direkte Mitglieder des internationalen Dachverbandes Ippan Shadanhōjin Seitō Seiryu Muso Jikiden Eishin Ryu Iaido (kurz Kokusai Renmei) unter Leitung von Kobara Kenichi Sensei, Hanshi."
   }
 ]
