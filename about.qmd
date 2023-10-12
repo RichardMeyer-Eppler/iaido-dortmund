@@ -1,23 +1,42 @@
 ---
 title: "Über uns"
 lang: de
+engine: knitr
 ---
 
-## Iaido
+```{css, echo = FALSE, eval = FALSE}
+figure {
+  border-top: none;
+  padding-top: 0;
+}
+figcaption {
+  padding: 0.5em;
+  border: thin silver solid;
+  border-bottom: none;
+}
+```
 
-Iaido -- der Weg des Schwertes -- ist eine traditionelle japanische Kampfkunst.
-Iaido wird größtenteils mithilfe von festgelegten Bewegungsabläufen, sogenannten *Katas*, erlernt, in denen auf unterschiedliche Bedrohungsszenarien reagiert wird.
-Typische Elemente einer Kata sind dabei das Ziehen des Schwertes, welches nahtlos in einen Schnitt oder in einen Block übergeht, das symbolische Reinigen der Klinge nach Überwältigung des imaginären Gegners bzw.
-der imaginären Gegner, sowie das Zurückführen des Schwertes in die Scheide.
-Im angestrebten Idealfall bildet bei der Ausführung der Techniken Körper, Geist und Schwert eine harmonische Einheit (*ki ken tai no ichi*).
-Dadurch, dass Iaido größtenteils ohne Partner trainiert wird, sind Tempo und Trainingsintensität weitestgehend selbstbestimmt.
-Das langjährige Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen.
-Iaido wird oft bis ins hohe Alter trainiert, kann also mit sehr unterschiedlichen körperlichen Voraussetzungen ausgeübt werden.
+## Dojoleiter
 
-## Muso Jikiden Eishin Ryu
+Richard Meyer-Eppler hat 2005 im [Esaka Dojo Münster](https://www.esaka-dojo-muenster.de/) bei Norbert Krokowski mit dem Training von Muso Jikiden Eishin Ryu begonnen.
+Das Dojo war zwei Jahre zuvor auf den persönlichen Wunsch von Seigen Esaka Sensei gegründet worden.
 
-Die in Dortmund trainierte Stilrichtung des Iaido ist das *Muso Jikiden Eishin Ryu*, das der Überlieferung nach vor 450 Jahren in Japan entstand.
-Es beansprucht eine ununterbrochene Linie der persönlichen Weitergabe bis in die Gegenwart.
-Über das Training im Tempel hinaus können regelmäßig Lehrgänge des [Muso Jikiden Eishin Ryu Verbands Deutschland e.V.](http://iaidoverband.org/)
-besucht werden.
-Auf der Webseite des Verbandes finden sich auch weitere Informationen zum Stil und zu unseren japanischen Lehrern.
+![Die frühen Anfänge - Esaka Dojo Münster im November 2005. Norbert Krokowski hintere Reihe ganz links, Richard Meyer-Eppler ganz rechts.](images/2005-11-30_Muenster.jpg)
+
+Durch einen Auslandsaufenthalt in Victoria, B.C., Kanada von 2007 bis 2008 hatte er die Gelegenheit, im Shoshinkai (初心会) Victoria Dojo der [Canadian Iaido Association](http://www.iaido.ca/) zu trainieren.
+Während seiner Zeit dort verstarb überraschend [Ted Davis Sensei](http://www.iaido.ca/iaido-information/instructor-profiles/founder-ted-davis-sensei/), Gründer des kanadischen Verbandes.
+
+![Fall Seminar 2007 in Vancouver mit Hiro Inoue Sensei, Denny Hewgill Sensei und Greg Williams Sensei](images/2007-12-01_Hiro_Seminar.JPG)
+
+Von 2013 bis 2016 lebte er in Berlin und trainierte im dortigen [Esaka Dojo](https://esaka-dojo-berlin.de/).
+2021 bestand er auf dem Bundeslehrgang in Potsdam erfolgreich die Prüfung zum *Yondan* (4. Dan).
+
+![Gemeinsam mit Iaidoka aus Münster und Kevelaer auf dem Europalehrgang in Duisburg in 2023 mit unseren japanischen Lehrern Miyazawa Yasutomo Sensei und Daniel DeNoon Sensei](images/2023-09-03_Duisburg.jpg)
+
+## Dojo Dortmund
+
+Von 2018 bis zum März 2021 wurde Training in den Räumlichkeiten von [Mein Tempel - Dem Boutique Studio in Dortmund](https://www.meintempel.de/) angeboten.
+Leider musste das Studio während der Coronazeit dauerhaft geschlossen werden - seitdem konnte kein regelmäßiges Training stattfinden.
+Momentan sind wir auf der Suche nach neuen Trainingsmöglichkeiten.
+
+![Training in Dortmund in den alten Räumlichkeiten](images/tempel_sunegakoi.jpg)

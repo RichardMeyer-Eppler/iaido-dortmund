@@ -18,6 +18,7 @@ website:
       - blog.qmd
       - training.qmd
       - about.qmd
+      - iaido.qmd
     tools:
       - icon: facebook
         href: https://www.facebook.com/profile.php?id=61552009765748
