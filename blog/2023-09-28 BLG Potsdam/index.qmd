@@ -5,6 +5,7 @@ date: 2023-09-28
 categories: [Bundeslehrgänge, Martin Peter, Potsdam] # self-defined categories
 lang: de
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+image: /images/2016-09-24_Landshut_Rei.jpg
 ---
 
 Auf der Verbandshomepage ist die [Anmeldung für den Bundeslehrgang in Potsdam](https://iaidoverband.org/lehrgaenge/) vom 9-10.
