@@ -1,19 +1,34 @@
 ---
-title: "Home"
+title: "MJER Iaido Dortmund"
 lang: de
+about:
+  id: jolla-block
+  template: jolla
+  image: /images/torei.jpg
+  links: 
+    - icon: envelope
+      text: info@iaido-dortmund.de
+      href: mailto:info@iaido-dortmund.de
+    - icon: facebook
+      text: Iaido Dortmund
+      href: https://www.facebook.com/profile.php?id=61552009765748
+    - icon: instagram
+      text: eishinryuiaidodortmund
+      href: https://www.instagram.com/eishinryuiaidodortmund/
 ---
-
-Herzlich willkommen auf den Webseiten des Dortmunder Dojos für die traditionelle japanische Schwertkampfkunst Iaido!
-
-Im Iaido werden feste Bewegungsformen einstudiert, die mit Schwert und größtenteils ohne Partner trainiert werden.
-Das Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen.
-Die in Dortmund trainierte Stilrichtung ist das *Muso Jikiden Eishin Ryu*, das vor 450 Jahren in Japan entstanden ist.
-Der Stil wurde ununterbrochen bis in die Gegenwart von Lehrer zu Schüler weitergegeben.
 
 ::: callout-caution
 Die Webseite ist im Aufbau befindlich und ändert sich derzeit noch häufig!
 :::
 
+::: {#jolla-block}
+Herzlich willkommen auf den Webseiten des Dortmunder Dojos für die traditionelle japanische Schwertkampfkunst Iaido!
+Die von uns trainierte Stilrichtung ist das *Muso Jikiden Eishin Ryu* (MJER), das vor 450 Jahren in Japan entstanden ist.
+Der Stil wurde ununterbrochen bis in die Gegenwart von Lehrer zu Schüler weitergegeben.
+:::
+
+## Mitgliedschaften
+
 National sind wir Mitglied des [Muso Jikiden Eishin Ryu Verband Deutschland e.V.](https://www.iaidoverband.org). Zusätzlich sind wir direkte Mitglieder des internationalen Dachverbandes [Ippan Shadanhōjin Seitō Seiryu Muso Jikiden Eishin Ryu Iaido](https://mjer-iaido.github.io/en/) (kurz Kokusai Renmei) unter Leitung von Kobara Kenichi Sensei, Hanshi.
 
-[![](images/mjer_logo.jpg){style="caption{text-align: center;}" fig-alt="World MJER Iaido Federation Logo with Weblink" fig-align="left"}](https://mjer-iaido.github.io/en/)
+![](images/mjer_logo.jpg){style="caption{text-align: center;}" fig-alt="World MJER Iaido Federation Logo with Weblink" fig-align="left"}

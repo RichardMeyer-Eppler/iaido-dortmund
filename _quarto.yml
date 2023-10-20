@@ -14,12 +14,16 @@ website:
     search: true
     logo: "images/favicon/fav-icon_01.png"
     contents:
-      - index.qmd
+      - text: "Home"
+        file: index.qmd
       - blog.qmd
       - training.qmd
       - about.qmd
       - iaido.qmd
     tools:
+      - icon: envelope
+        text: info@iaido-dortmund.de
+        href: mailto:info@iaido-dortmund.de
       - icon: facebook
         href: https://www.facebook.com/profile.php?id=61552009765748
       - icon: instagram
