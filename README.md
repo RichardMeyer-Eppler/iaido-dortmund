@@ -11,3 +11,8 @@ and the [World MJER Iaido Federation](https://mjer-iaido.github.io/en/).
 The website is built with [Quarto](https://quarto.org/) using [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
 
 The branch gh-pages is pushed to the custom domain [www.iaido-dortmund.de](https://www.iaido-dortmund.de).
+
+# Quarto Resources
+
+* [Official Quarto Documentation](https://quarto.org/docs/websites/)
+* [Awesome Quarto - A curated list of Quarto talks, tools, examples & articles](https://github.com/mcanouil/awesome-quarto)
