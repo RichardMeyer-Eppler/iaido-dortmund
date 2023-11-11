@@ -3,13 +3,21 @@ title: "Training"
 lang: de
 ---
 
-![](images/tempel_yokochiburi.jpg)
-
 ## Trainingsort und -zeiten
 
-Von 2018 bis zum März 2021 wurde Training in den Räumlichkeiten von [Mein Tempel - Dem Boutique Studio in Dortmund](https://www.meintempel.de/) angeboten.
-Leider hat das Studio die Coronamaßnahmen nicht überlebt und seitdem konnte kein regelmäßiges Training mehr stattfinden.
-Momentan sind wir auf der Suche nach neuen Räumlichkeiten und Trainingszeiten.
+Das Training findet jeden Freitag von 18:30 bis 20:00 Uhr in der Eichlinghofer Grundschule (Stortsweg 52, 44227 Dortmund) statt.
+
+```{r, echo = FALSE, warning = FALSE}
+
+library(leaflet)
+
+leaflet::leaflet() %>%
+  leaflet::addTiles() %>%  # Add default OpenStreetMap map tiles
+  leaflet::addMarkers(
+    lng = 7.40805,
+    lat = 51.47860,
+    popup = "Sporthalle der Eichlinghofer Grundschule")
+```
 
 ## Was brauche ich für das erste Training
 
@@ -30,3 +38,5 @@ Mehr dazu kann auf den Seiten des [Esaka Dojo Potsdam](http://www.iaido-potsdam.
 
 Wir freuen uns über konstruktiven Austausch mit interessierten Menschen, auch wenn keine dauerhafte Trainingsabsicht in unserem Dojo dahinter steckt.
 Meldet euch vorab kurz an und kommt vorbei!
+
+![](images/tempel_yokochiburi.jpg)
