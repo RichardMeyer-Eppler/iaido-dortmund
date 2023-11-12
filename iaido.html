@@ -172,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="iaido" class="level2">
 <h2 class="anchored" data-anchor-id="iaido">Iaido</h2>
-<p>Iaido – der Weg des Schwertes – ist eine traditionelle japanische Kampfkunst. Iaido wird größtenteils mithilfe von festgelegten Bewegungsabläufen, sogenannten <em>Katas</em>, erlernt, in denen auf unterschiedliche Bedrohungsszenarien reagiert wird. Typische Elemente einer Kata sind das Ziehen des Schwertes, welches nahtlos in einen Schnitt oder in einen Block übergeht, der finale Schnitt zur endgültigen Überwindung des imaginären Gegners, das symbolische Reinigen der Klinge, sowie das Zurückführen des Schwertes in die Scheide. Dabei soll bei der Ausführung der Techniken Körper, Geist und Schwert eine harmonische Einheit bilden (<em>ki ken tai no ichi</em>). Dadurch, dass Iaido größtenteils ohne Partner trainiert wird, sind Tempo und Trainingsintensität weitestgehend selbstbestimmt. Das langjährige Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen. Iaido wird oft bis ins hohe Alter trainiert, kann also mit sehr unterschiedlichen körperlichen Voraussetzungen ausgeübt werden.</p>
+<p>Iaido ist eine traditionelle japanische Kampfkunst. Iaido wird größtenteils mithilfe von festgelegten Bewegungsabläufen, sogenannten <em>Katas</em>, erlernt, in denen auf unterschiedliche Bedrohungsszenarien reagiert wird. Typische Elemente einer Kata sind das Ziehen des Schwertes, welches nahtlos in einen Schnitt oder in einen Block übergeht, der finale Schnitt zur endgültigen Überwindung des imaginären Gegners, das symbolische Reinigen der Klinge, sowie das Zurückführen des Schwertes in die Scheide. Dabei soll bei der Ausführung der Techniken Körper, Geist und Schwert eine harmonische Einheit bilden (<em>ki ken tai no ichi</em>). Dadurch, dass Iaido größtenteils ohne Partner trainiert wird, sind Tempo und Trainingsintensität weitestgehend selbstbestimmt. Das langjährige Training übt Körperbeherrschung und Selbstwahrnehmung und führt zu einer intensiven Beschäftigung mit den eigenen mentalen und körperlichen Grenzen. Iaido wird oft bis ins hohe Alter trainiert, kann also mit sehr unterschiedlichen körperlichen Voraussetzungen ausgeübt werden.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/nukitsuke.jpg" class="img-fluid figure-img"></p>
@@ -419,6 +419,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/www\.iaido-dortmund\.de");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
