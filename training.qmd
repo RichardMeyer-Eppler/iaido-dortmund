@@ -1,11 +1,10 @@
 ---
 title: "Training"
-lang: de
 ---
 
 ## Trainingsort und -zeiten
 
-Das Training findet jeden Freitag von 18:30 bis 20:00 Uhr in der Eichlinghofer Grundschule (Stortsweg 52, 44227 Dortmund) statt.
+Das Training findet jeden Freitag von 18:30 bis 20:00 Uhr in der Eichlinghofer Grundschule (Stortsweg 52, 44227 Dortmund, [{{< fa brands google >}}](https://maps.app.goo.gl/N6KBVVVCBQbx5bF79 "Wegbeschreibung Google Maps")) statt.
 
 ```{r, echo = FALSE, warning = FALSE}
 

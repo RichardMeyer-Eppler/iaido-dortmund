@@ -1,6 +1,5 @@
 ---
 title: "MJER Iaido Dortmund"
-lang: de
 about:
   id: jolla-block
   template: jolla

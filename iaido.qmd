@@ -1,11 +1,12 @@
 ---
 title: "Iaido"
-lang: de
+link-external-icon: true
+link-external-newwindow: true
 ---
 
 ## Iaido
 
-Iaido -- der Weg des Schwertes -- ist eine traditionelle japanische Kampfkunst.
+Iaido ist eine traditionelle japanische Kampfkunst.
 Iaido wird größtenteils mithilfe von festgelegten Bewegungsabläufen, sogenannten *Katas*, erlernt, in denen auf unterschiedliche Bedrohungsszenarien reagiert wird.
 Typische Elemente einer Kata sind das Ziehen des Schwertes, welches nahtlos in einen Schnitt oder in einen Block übergeht, der finale Schnitt zur endgültigen Überwindung des imaginären Gegners, das symbolische Reinigen der Klinge, sowie das Zurückführen des Schwertes in die Scheide.
 Dabei soll bei der Ausführung der Techniken Körper, Geist und Schwert eine harmonische Einheit bilden (*ki ken tai no ichi*).
