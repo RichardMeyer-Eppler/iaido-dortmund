@@ -1,7 +1,5 @@
 ---
 title: "Iaido"
-link-external-icon: true
-link-external-newwindow: true
 ---
 
 ## Iaido
