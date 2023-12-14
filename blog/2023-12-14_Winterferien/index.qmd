@@ -1,7 +1,9 @@
 ---
 title: "Winterferien 2023/24"
+description: "Halle vom 21. Dezember 2023 bis zum 5. Januar 2024 geschlossen"
 date: 2023-12-14
 expiration_date: 2024-01-06
+show_on_training: TRUE
 categories: [Dortmund, Trainingszeiten] # self-defined categories
 lang: de
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -13,3 +15,5 @@ Dezember 2023 bis zum 5.
 Januar 2024 sind Ferien und die Halle der Eichlinghofer Grundschule ist geschlossen.
 Das erste Training im neuen Jahr findet am 12.
 Januar 2024 statt.
+
+![](/images/gs_eichlinghofen.jpg){width="50%"}

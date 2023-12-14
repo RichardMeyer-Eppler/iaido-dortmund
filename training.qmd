@@ -1,6 +1,91 @@
 ---
 title: "Training"
+echo: false
+listing:
+  id: training-listings
+  contents: blog
+  type: table
+  max-items: 1
+  sort: "date desc"
+  fields: [date, title]
+  sort-ui: false
+  filter-ui: false
+  include:
+    show_on_training: TRUE
 ---
+
+```{r get-github-folder}
+get_github_folder <- function(url) {
+  req <- httr::GET(
+    url
+  )
+  
+  url_contents <- httr::content(req)
+  
+  return(url_contents)
+}
+```
+
+```{r get-blog-entries}
+# https://stackoverflow.com/questions/70938808/r-rvest-retrieve-files-from-github
+
+blog_entries_list <- get_github_folder(
+  url = "https://api.github.com/repos/RichardMeyer-Eppler/iaido-dortmund/contents/blog"
+)
+
+latest_url <- blog_entries_list |> 
+  purrr::map_chr(
+    "url"
+  ) |> 
+  tibble::as_tibble_col(
+    column_name = "url"
+  ) |> 
+  dplyr::filter(
+    stringr::str_detect(
+      url,
+      pattern = "erien"
+    )
+  ) |> 
+  dplyr::slice_head(
+    n = 1
+  ) |> 
+  dplyr::pull(
+    url
+  )
+
+```
+
+```{r get-latest-entry}
+
+latest_holiday_post <- get_github_folder(
+  url = latest_url
+)
+
+```
+
+```{r get-yaml}
+
+txt <- readLines(
+  con = latest_holiday_post[[1]]$download_url
+)
+
+yaml_end_index <- which(txt == "---")[2]
+yaml_only <- txt[seq(yaml_end_index)]
+
+yaml_parsed <- yaml::yaml.load(yaml_only)
+
+holiday_over <- Sys.Date() > yaml_parsed$expiration_date
+
+```
+
+```{r, eval = FALSE, results= 'asis'}
+## Aktuelles zu Ferien und Schließzeiten
+
+cat(
+  latest_holiday_post[[1]]$name  
+)
+
+```
 
 ## Trainingsort und -zeiten
 
@@ -17,6 +102,11 @@ leaflet::leaflet() %>%
     lat = 51.47860,
     popup = "Sporthalle der Eichlinghofer Grundschule")
 ```
+
+## Aktuelles
+
+::: {#training-listings}
+:::
 
 ## Was brauche ich für das erste Training
 
