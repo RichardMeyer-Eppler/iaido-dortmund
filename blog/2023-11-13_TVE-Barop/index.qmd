@@ -2,7 +2,7 @@
 title: "Training in Dortmund Eichlinghofen über den TV Einigkeit Dortmund-Barop"
 description: "Ab dem 24. November 2023 kann im Rahmen des Freizeitsportangebots des TVE Barops endlich wieder trainiert werden!"
 date: 2023-11-13
-categories: [Trainingszeiten, TVE Barop]
+categories: [Dortmund, Trainingszeiten, TVE Barop]
 image: /images/tve_barop.jpg
 ---
 
