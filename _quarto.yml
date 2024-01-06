@@ -19,6 +19,7 @@ website:
       - blog.qmd
       - training.qmd
       - about.qmd
+      - membership.qmd
       - iaido.qmd
     tools:
       - icon: envelope
