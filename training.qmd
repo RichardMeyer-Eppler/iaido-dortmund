@@ -14,7 +14,7 @@ listing:
     show_on_training: TRUE
 ---
 
-```{r get-github-folder}
+```{r get-github-folder, eval = FALSE}
 get_github_folder <- function(url) {
   req <- httr::GET(
     url
@@ -26,64 +26,102 @@ get_github_folder <- function(url) {
 }
 ```
 
-```{r get-blog-entries}
+```{r get-blog-entries, eval = FALSE}
 # https://stackoverflow.com/questions/70938808/r-rvest-retrieve-files-from-github
 
 blog_entries_list <- get_github_folder(
   url = "https://api.github.com/repos/RichardMeyer-Eppler/iaido-dortmund/contents/blog"
 )
 
-latest_url <- blog_entries_list |> 
+urls <- blog_entries_list |> 
   purrr::map_chr(
     "url"
   ) |> 
   tibble::as_tibble_col(
     column_name = "url"
-  ) |> 
-  dplyr::filter(
-    stringr::str_detect(
-      url,
-      pattern = "erien"
+  ) 
+
+```
+
+```{r get-posts, eval = FALSE}
+
+posts <- urls |> 
+  dplyr::rowwise() |> 
+  dplyr::mutate(
+    content = list(
+      get_github_folder(
+        url = url
+      )
     )
-  ) |> 
-  dplyr::slice_head(
-    n = 1
-  ) |> 
-  dplyr::pull(
-    url
   )
 
 ```
 
-```{r get-latest-entry}
+```{r retrieve-download-urls, eval = FALSE}
 
-latest_holiday_post <- get_github_folder(
-  url = latest_url
-)
+download_urls <- posts |> 
+  tidyr::unnest_wider(
+    data = _,
+    col = content,
+    names_sep = "_"
+  ) |> 
+  tidyr::unnest_wider(
+    col = content_1,
+    names_sep = "_"
+  ) |> 
+  dplyr::filter(
+    !is.na(content_1_download_url)
+  )
+```
+
+
+```{r get-yaml, eval = FALSE}
+posts_yaml <- download_urls |>  
+  dplyr::rowwise() |> 
+  dplyr::mutate(
+    text = list(
+      readLines(
+        content_1_download_url
+      )
+    ),
+    yaml_end_index = which(
+      text == "---"
+    )[2],
+    yaml_only = list(
+      text[seq(yaml_end_index)]
+    ),
+    yaml_parsed = list(
+      yaml::yaml.load(
+        yaml_only
+      )
+    )
+  ) |> 
+  dplyr::select(
+    url,
+    download_url = content_1_download_url,
+    text:dplyr::last_col()
+  ) |> 
+  tidyr::unnest_wider(
+    data = _,
+    col = yaml_parsed
+  ) |> 
+  dplyr::mutate(
+    expiration_date = lubridate::as_date(
+      expiration_date
+    )
+  )
 
 ```
 
-```{r get-yaml}
+```{r display-booleans, eval = FALSE}
 
-txt <- readLines(
-  con = latest_holiday_post[[1]]$download_url
-)
+posts_to_display <- posts_yaml |> 
+  dplyr::filter(
+    show_on_training & 
+      Sys.Date() >= expiration_date
+  )
 
-yaml_end_index <- which(txt == "---")[2]
-yaml_only <- txt[seq(yaml_end_index)]
-
-yaml_parsed <- yaml::yaml.load(yaml_only)
-
-holiday_over <- Sys.Date() > yaml_parsed$expiration_date
-
-```
-
-```{r, eval = FALSE, results= 'asis'}
-## Aktuelles zu Ferien und Schließzeiten
-
-cat(
-  latest_holiday_post[[1]]$name  
-)
+has_current_news <- nrow(posts_to_display) > 0
 
 ```
 
@@ -103,10 +141,11 @@ leaflet::leaflet() %>%
     popup = "Sporthalle der Eichlinghofer Grundschule")
 ```
 
-## Aktuelles
-
-::: {#training-listings}
-:::
+```{r, eval = FALSE, results= 'asis'}
+cat(
+  "## Aktuelles"
+)
+```
 
 ## Was brauche ich für das erste Training
 
