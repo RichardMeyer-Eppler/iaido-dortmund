@@ -1,0 +1,11 @@
+---
+title: "Trainingsbesuch in Münster"
+date: 2024-08-18
+show_on_training: FALSE
+categories: [Dortmund, Esaka Dojo Münster] # self-defined categories
+lang: de
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+image: /images/2024-08-18_SKDM.jpg
+---
+
+Heute sind Darius, Dominik, Richard und Jan zum Training zu unseren Freunden vom Esaka Dojo Münster gefahren. Während der Sommerferien trainieren die Münsteraner in einem exzellent ausgestatteten Karatedojo und wir konnten das intensive Training in der zum Dojo gehörigen Sauna ausklingen lassen. Es war ein tolles Training und wird bestimmt bei der nächsten Gelegenheit wiederholt! 🙇‍♂️
