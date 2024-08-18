@@ -9,12 +9,32 @@
 <link>https://www.iaido-dortmund.de/blog.html</link>
 <atom:link href="https://www.iaido-dortmund.de/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Traditionelle japanische Schwertkampfkunst Iaido in Dortmund</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 13 Dec 2023 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Sat, 17 Aug 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Trainingsbesuch in Münster</title>
+  <link>https://www.iaido-dortmund.de/blog/2024-08-18_SKDM/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Heute sind Darius, Dominik, Richard und Jan zum Training zu unseren Freunden vom Esaka Dojo Münster gefahren. Während der Sommerferien trainieren die Münsteraner in einem exzellent ausgestatteten Karatedojo und wir konnten das intensive Training in der zum Dojo gehörigen Sauna ausklingen lassen. Es war ein tolles Training und wird bestimmt bei der nächsten Gelegenheit wiederholt! 🙇‍♂️</p>
+
+
+
+ ]]></description>
+  <category>Dortmund</category>
+  <category>Esaka Dojo Münster</category>
+  <guid>https://www.iaido-dortmund.de/blog/2024-08-18_SKDM/</guid>
+  <pubDate>Sat, 17 Aug 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://www.iaido-dortmund.de/images/2024-08-18_SKDM.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Winterferien 2023/24</title>
-  <link>https://www.iaido-dortmund.de/blog/2023-12-14_Winterferien/index.html</link>
+  <link>https://www.iaido-dortmund.de/blog/2023-12-14_Winterferien/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -26,14 +46,15 @@
  ]]></description>
   <category>Dortmund</category>
   <category>Trainingszeiten</category>
-  <guid>https://www.iaido-dortmund.de/blog/2023-12-14_Winterferien/index.html</guid>
+  <guid>https://www.iaido-dortmund.de/blog/2023-12-14_Winterferien/</guid>
   <pubDate>Wed, 13 Dec 2023 23:00:00 GMT</pubDate>
   <media:content url="https://www.iaido-dortmund.de/images/gs_eichlinghofen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Training in Dortmund Eichlinghofen über den TV Einigkeit Dortmund-Barop</title>
-  <link>https://www.iaido-dortmund.de/blog/2023-11-13_TVE-Barop/index.html</link>
+  <link>https://www.iaido-dortmund.de/blog/2023-11-13_TVE-Barop/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -47,14 +68,15 @@
   <category>Dortmund</category>
   <category>Trainingszeiten</category>
   <category>TVE Barop</category>
-  <guid>https://www.iaido-dortmund.de/blog/2023-11-13_TVE-Barop/index.html</guid>
+  <guid>https://www.iaido-dortmund.de/blog/2023-11-13_TVE-Barop/</guid>
   <pubDate>Sun, 12 Nov 2023 23:00:00 GMT</pubDate>
   <media:content url="https://www.iaido-dortmund.de/images/tve_barop.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Anmeldung für den BLG Potsdam freigeschaltet</title>
-  <link>https://www.iaido-dortmund.de/blog/2023-09-28 BLG Potsdam/index.html</link>
+  <link>https://www.iaido-dortmund.de/blog/2023-09-28 BLG Potsdam/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -66,14 +88,15 @@
   <category>Bundeslehrgänge</category>
   <category>Martin Peter</category>
   <category>Potsdam</category>
-  <guid>https://www.iaido-dortmund.de/blog/2023-09-28 BLG Potsdam/index.html</guid>
+  <guid>https://www.iaido-dortmund.de/blog/2023-09-28 BLG Potsdam/</guid>
   <pubDate>Wed, 27 Sep 2023 22:00:00 GMT</pubDate>
   <media:content url="https://www.iaido-dortmund.de/images/2016-09-24_Landshut_Rei.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Europalehrgang in Duisburg beendet</title>
-  <link>https://www.iaido-dortmund.de/blog/2023-09-04_Europalehrgang_Duisburg/index.html</link>
+  <link>https://www.iaido-dortmund.de/blog/2023-09-04_Europalehrgang_Duisburg/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -87,7 +110,7 @@
   <category>Daniel DeNoon</category>
   <category>Yasutomo Miyazawa</category>
   <category>Duisburg</category>
-  <guid>https://www.iaido-dortmund.de/blog/2023-09-04_Europalehrgang_Duisburg/index.html</guid>
+  <guid>https://www.iaido-dortmund.de/blog/2023-09-04_Europalehrgang_Duisburg/</guid>
   <pubDate>Sun, 03 Sep 2023 22:00:00 GMT</pubDate>
   <media:content url="https://www.iaido-dortmund.de/images/2023-09-03_Duisburg_Group_Picture.jpg" medium="image" type="image/jpeg"/>
 </item>
