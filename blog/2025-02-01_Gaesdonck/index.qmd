@@ -1,5 +1,5 @@
 ---
-title: "Trainingsbesuch in Münster"
+title: "Trainingsbesuch in Kevelaer"
 date: 2025-02-01
 show_on_training: FALSE
 categories: [Dortmund, NRW, Kevelaer] # self-defined categories
