@@ -5,25 +5,15 @@ engine: knitr
 
 ## TVE Barop
 
-Vor Ort sind wir dem Freizeitsportangebot des [TV Einigkeit Dortmund-Barop](https://www.tve-barop.de/) angeschlossen.
-Für uns gilt der Beitragssatz "Leichtathletik / Freizeitsport".
-Zum Stand 01.
-April 2023 betragen die monatlichen Kosten für Erwachsene 11,- € ([werde Mitglied beim TVE](https://www.tve-barop.de/tve/verein/werde-mitglied.html)).
+Vor Ort sind wir dem Freizeitsportangebot des [TV Einigkeit Dortmund-Barop](https://www.tve-barop.de/) angeschlossen. Für uns gilt der Beitragssatz "Leichtathletik / Freizeitsport". Zum Stand 01. Februar 2025 betragen die monatlichen Kosten für Erwachsene 14 Euro ([werde Mitglied beim TVE](https://www.tve-barop.de/tve/verein/werde-mitglied.html)).
 
 ## Muso Jikiden Eishin Ryu Verband Deutschland e.V.
 
-National sind wir Mitglied des [Muso Jikiden Eishin Ryu Verband Deutschland e.V.](https://www.iaidoverband.org). Der Verband koordiniert die regelmäßig stattfindenen Lehrgänge - nationale Lehrgänge unter Leitung des Bundestrainers und die Europalehrgänge unter Leitung unserer japanischen Senseis.
-Gemäß Paragraph 3 der [Satzung](https://www.iaido-dortmund.de/docs/201206_Satzung_Iaidoverband.pdf) ist die Mitgliedschaft im Muso Jikiden Eishin Ryu Verband Deutschland verpflichtend an die Mitgliedschaft im internationalen Dachverband "[Ippan Shadanhoujin Seitou Seiryu Muso Jikiden Eishin Ryu Iaido Kokusai Renmei](https://mjer-iaido.github.io/en/)" (kurz "Kokusai Renmei") gekoppelt.
+National sind wir Mitglied des [Muso Jikiden Eishin Ryu Verband Deutschland e.V.](https://www.iaidoverband.org). Der Verband koordiniert die regelmäßig stattfindenen Lehrgänge - nationale Lehrgänge unter Leitung des Bundestrainers und die Europalehrgänge unter Leitung unserer japanischen Senseis. Gemäß Paragraph 3 der [Satzung](https://www.iaido-dortmund.de/docs/201206_Satzung_Iaidoverband.pdf) ist die Mitgliedschaft im Muso Jikiden Eishin Ryu Verband Deutschland verpflichtend an die Mitgliedschaft im internationalen Dachverband "[Ippan Shadanhoujin Seitou Seiryu Muso Jikiden Eishin Ryu Iaido Kokusai Renmei](https://mjer-iaido.github.io/en/)" (kurz "Kokusai Renmei") gekoppelt.
 
-Der aktuelle Mitgliedsbeitrag beträgt zur Zeit 90,- € pro Geschäftsjahr (beginnt jeweils zum 1. Oktober eines Kalenderjahres).
-Hinzu kommt eine einmalige Aufnahmegebühr in Höhe von 60,- €, die vollständig nach Japan weitergereicht wird.
+Der aktuelle Mitgliedsbeitrag beträgt zur Zeit 90 Euro pro Geschäftsjahr (beginnend jeweils zum 1. Oktober eines Kalenderjahres). Hinzu kommt eine einmalige Aufnahmegebühr in Höhe von 60 Euro, die vollständig nach Japan weitergereicht wird.
 
-Der deutsche Verband organisiert die Prüfungen vom 5.
-Kyu bis zum 1.
-Kyu.
-Die Prüfungen dazu finden im Rahmen von Bundeslehrgängen bzw.
-Lehrgängen des Kokusai Renmei in Deutschland statt und werden durch den Verbandstrainer und/oder den Verbandspräsidenten abgenommen.
-Die Gebühr beträgt 15,- € je Kyu-Prüfung.
+Der deutsche Verband organisiert die Prüfungen vom 5. Kyu bis zum 1. Kyu. Die Prüfungen dazu finden im Rahmen von Bundeslehrgängen bzw. Lehrgängen des Kokusai Renmei in Deutschland statt und werden durch den Verbandstrainer und/oder den Verbandspräsidenten abgenommen. Die Gebühr beträgt 15,- € je Kyu-Prüfung.
 
 Um Mitglied zu werden, muss der [Antrag des Dojo Dortmunds](https://www.iaido-dortmund.de/docs/Dojo_Dortmund_Mitgliedschaftsantrag.pdf) ausgefüllt und auf der [Antragsseite des Verbands](https://iaidoverband.org/mitgliedsantrag/) hochgeladen werden.
 
@@ -31,7 +21,4 @@ Um Mitglied zu werden, muss der [Antrag des Dojo Dortmunds](https://www.iaido-do
 
 Der internationale Dachverband "[Ippan Shadanhoujin Seitou Seiryu Muso Jikiden Eishin Ryu Iaido Kokusai Renmei](https://mjer-iaido.github.io/en/)" (kurz "Kokusai Renmei") richtet international Lehrgänge aus, veröffentlicht Bücher und Broschüren, überreicht Zertifikate und hält Danprüfungen ab.
 
-Für die Danprüfungen gelten je Graduierung unterschiedliche Wartezeiten und Gebühren (siehe [Prüfungsordnung und -Gebühren](https://iaidoverband.org/info/)).
-Die Prüfung zum 3.
-Dan ist z.B.
-frühestens nach sechs Jahren Training möglich und kostet 2.000 ¥ für die Prüfung und 4.000 ¥ für die Registrierung (umgerechnet insgesamt ca. 40,- €).
+Für die Danprüfungen gelten je Graduierung unterschiedliche Wartezeiten und Gebühren (siehe [Prüfungsordnung und -Gebühren](https://iaidoverband.org/info/)). Die Prüfung zum 3. Dan ist z.B. frühestens nach sechs Jahren Training möglich und kostet 2.000 ¥ für die Prüfung und 4.000 ¥ für die Registrierung (umgerechnet insgesamt ca. 40 Euro).
