@@ -40,6 +40,38 @@
   <media:content url="https://www.iaido-dortmund.de/images/2025-05-17_BLG_Stuttgart.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>BLG Bielefeld</title>
+  <link>https://www.iaido-dortmund.de/blog/2025-03-01_BLG_Bielefeld/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Leon, Richard und Nico hatten eine lehrreiche und sehr intensive Zeit auf dem Bundeslehrgang in Bielefeld. Leon hat dort erfolgreich die Prüfung zum 5. Kyu bestanden - herzlichen Glückwunsch!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.iaido-dortmund.de/images/2025-03-01_BLG_Bielefeld.jpg" class="img-fluid figure-img"></p>
+<figcaption>Leon, Richard und Nico</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.iaido-dortmund.de/images/2025-03-01_BLG_Bielefeld_Gruppenfoto.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Gruppenfoto mit Martin Peter Sensei und Raymond Schröder Sensei - leider im Gegenlicht</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>Bundeslehrgänge</category>
+  <category>Prüfung</category>
+  <category>Bielefeld</category>
+  <guid>https://www.iaido-dortmund.de/blog/2025-03-01_BLG_Bielefeld/</guid>
+  <pubDate>Sat, 01 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://www.iaido-dortmund.de/images/2025-03-01_BLG_Bielefeld.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Trainingsbesuch in Kevelaer</title>
   <link>https://www.iaido-dortmund.de/blog/2025-02-01_Gaesdonck/</link>
   <description><![CDATA[ 
@@ -156,38 +188,6 @@
   <guid>https://www.iaido-dortmund.de/blog/2023-09-04_Europalehrgang_Duisburg/</guid>
   <pubDate>Sun, 03 Sep 2023 22:00:00 GMT</pubDate>
   <media:content url="https://www.iaido-dortmund.de/images/2023-09-03_Duisburg_Group_Picture.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>BLG Bielefeld</title>
-  <link>https://www.iaido-dortmund.de/blog/2025-03-01_BLG_Bielefeld/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Leon, Richard und Nico hatten eine lehrreiche und sehr intensive Zeit auf dem Bundeslehrgang in Bielefeld. Leon hat dort erfolgreich die Prüfung zum 5. Kyu bestanden - herzlichen Glückwunsch!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.iaido-dortmund.de/images/2025-03-01_BLG_Bielefeld.jpg" class="img-fluid figure-img"></p>
-<figcaption>Leon, Richard und Nico</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://www.iaido-dortmund.de/images/2025-03-01_BLG_Bielefeld_Gruppenfoto.jpeg" class="img-fluid figure-img"></p>
-<figcaption>Gruppenfoto mit Martin Peter Sensei und Raymond Schröder Sensei - leider im Gegenlicht</figcaption>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>Bundeslehrgänge</category>
-  <category>Prüfung</category>
-  <category>Bielefeld</category>
-  <guid>https://www.iaido-dortmund.de/blog/2025-03-01_BLG_Bielefeld/</guid>
-  <pubDate>Tue, 20 May 2025 08:08:29 GMT</pubDate>
-  <media:content url="https://www.iaido-dortmund.de/images/2025-03-01_BLG_Bielefeld.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
