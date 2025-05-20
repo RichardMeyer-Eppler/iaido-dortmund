@@ -1,5 +1,6 @@
 ---
 title: "BLG Bielefeld"
+date: 2025-03-02
 show_on_training: FALSE
 categories: [Bundeslehrgänge, Prüfung, Bielefeld] # self-defined categories
 lang: de
