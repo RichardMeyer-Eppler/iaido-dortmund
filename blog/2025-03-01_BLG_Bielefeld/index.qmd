@@ -1,0 +1,14 @@
+---
+title: "BLG Bielefeld"
+show_on_training: FALSE
+categories: [Bundeslehrgänge, Prüfung, Bielefeld] # self-defined categories
+lang: de
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+image: /images/2025-03-01_BLG_Bielefeld.jpg
+---
+
+Leon, Richard und Nico hatten eine lehrreiche und sehr intensive Zeit auf dem Bundeslehrgang in Bielefeld. Leon hat dort erfolgreich die Prüfung zum 5. Kyu bestanden - herzlichen Glückwunsch!
+
+![Leon, Richard und Nico](/images/2025-03-01_BLG_Bielefeld.jpg)
+
+![Gruppenfoto mit Martin Peter Sensei und Raymond Schröder Sensei - leider im Gegenlicht](/images/2025-03-01_BLG_Bielefeld_Gruppenfoto.jpeg){alt="Nico und Darius"}
