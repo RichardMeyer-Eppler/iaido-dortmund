@@ -8,7 +8,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 image: /images/2025-05-17_BLG_Stuttgart.jpg
 ---
 
-Zwei unserer Mitglieder, Darius und Nico, haben sich am vergangenen Wochenende auf den Weg zum Bundeslehrgang in Stuttgart gemacht. Darius hat die Prüfung zum 4. Kyu und Nico die Prüfung zum 5. Kyu bestanden - herzliche Glückwünsche! ![🥳](https://static.xx.fbcdn.net/images/emoji.php/v9/t6d/1/16/1f973.png){alt="🥳"} Das Training geht weiter - 稽古は続く.
+Zwei unserer Mitglieder, Darius und Nico, haben sich am vergangenen Wochenende auf den Weg zum Bundeslehrgang in Stuttgart gemacht. Darius hat die Prüfung zum 4. Kyu und Nico die Prüfung zum 5. Kyu bestanden - herzliche Glückwünsche! 🥳 Das Training geht weiter - 稽古は続く.
 
 ![Nico und Darius](/images/2025-05-17_BLG_Stuttgart.jpg)
 
