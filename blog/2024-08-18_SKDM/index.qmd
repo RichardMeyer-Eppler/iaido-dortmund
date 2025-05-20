@@ -2,7 +2,7 @@
 title: "Trainingsbesuch in Münster"
 date: 2024-08-18
 show_on_training: FALSE
-categories: [Dortmund, Esaka Dojo Münster] # self-defined categories
+categories: [Münster] # self-defined categories
 lang: de
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 image: /images/2024-08-18_SKDM.jpg

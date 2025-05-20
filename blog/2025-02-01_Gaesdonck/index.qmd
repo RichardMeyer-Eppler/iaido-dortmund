@@ -2,7 +2,7 @@
 title: "Trainingsbesuch in Kevelaer"
 date: 2025-02-01
 show_on_training: FALSE
-categories: [Dortmund, NRW, Kevelaer] # self-defined categories
+categories: [Kevelaer] # self-defined categories
 lang: de
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 image: /images/2025-02-01_Gaesdonck.jpg
