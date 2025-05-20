@@ -5,12 +5,12 @@ show_on_training: FALSE
 categories: [Kevelaer] # self-defined categories
 lang: de
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
-image: /images/2025-02-01_Gaesdonck.jpg
+image: /images/2025-02-01_Gaesdonck2.jpg
 ---
 
 Heute sind wir zu dritt einer Einladung des Dojo in Kevelaer zu einem informellen gemeinsamen Training gefolgt. Neben uns waren noch Iaidoka aus Münster, Köln und Bielefeld mit dabei. Das Training fand auf dem Gelände des Collegium Augustinianum Gaesdonck statt, einem bischöflichen Gymnasium des Bistums Münster. Das Wetter war großartig, die Atmosphäre fantastisch und der ungewöhnliche Trainingsort sehr beeindruckend (als Filmkulisse für Harry Potter wäre Gaesdonck bestens geeignet!). Tausend Dank an Herbert und sein Dojo für die Einladung und Gastfreundschaft! 🙇‍♂️ Wenn alles nach Plan läuft, werden wir uns bald revanchieren! 😊
 
-![Gruppenfoto in Gaesdonck](/images/2025-02-01_Gaesdonck.jpg)
+![Gruppenfoto in Gaesdonck](/images/2025-02-01_Gaesdonck2.jpg)
 
 Dieser Beitrag wurde auch auf Instagram veröffentlicht:
 
