@@ -1,5 +1,5 @@
 ---
-title: "Europalehrgang in Kienbaum beendet"
+title: "Europalehrgang Laufen"
 date: 2025-09-07
 show_on_training: FALSE
 categories: [Europalehrgänge, Mochizai Shuichi, Hideaki Matsumoto, Daniel DeNoon] # self-defined categories
