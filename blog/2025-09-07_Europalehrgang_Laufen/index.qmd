@@ -1,0 +1,23 @@
+---
+title: "Europalehrgang in Kienbaum beendet"
+date: 2025-09-07
+show_on_training: FALSE
+categories: [Europalehrgänge, Mochizai Shuichi, Hideaki Matsumoto, Daniel DeNoon] # self-defined categories
+lang: de
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+image: /images/2025-09-07_Europalehrgang_Laufen.jpg
+---
+
+Zwei Mitglieder unseres Dojos, Richard und Nico, reisten am vergangenen Wochenende nach Laufen in Bayern zum jährlichen Europäischen Seminar der World MJER Federation. Das Seminar begann mit einem Schock: Raymond Schröder Sensei überbrachte die traurige Nachricht, dass Corinne Cichella-Quevenne Anfang dieses Jahres an Krebs verstorben ist. Corinne war Dojoleiterin vom Makato Dojo Paris und eine verlässliche sowie sehr geschätzte Persönlichkeit auf unseren europäischen Seminaren. Unser aufrichtiges Beileid gilt ihren Freunden und ihrer Familie.
+
+Das Seminar selbst war in jeder Hinsicht ausgezeichnet: Mochizai Sensei, Matsumoto Sensei und DeNoon Sensei behandelten viele Themen und inspirierten alle Teilnehmenden. In der Fortgeschrittenengruppe teilte Mochizai Sensei Lehren und Anekdoten von Esaka Seigen Sensei, sowie von dessen Lehrern, Kono Hyakuren Soke und Fukui Seizan Soke.
+
+Es war schon das dritte Mal, dass Anselm die Organisation und Ausrichtung des Europäischen Seminars in Laufen übernommen hat – dōmo arigatō gozaimasu! 🙇 Das Wetter war großartig, das Essen hervorragend, die Unterkunft nicht zu überbieten und die Abende waren lang, sommerlich und voller Lachen. 😊
+
+Herzlichen Glückwunsch an alle neuen Dangrad-Träger! Und vielen Dank an Gunnar vom Esaka Dōjō Potsdam für einige der Fotos!
+
+![Gruppenfoto von Iaidoka aus NRW mit Mochizai Sensei, Matsumoto Sensei und DeNoon Sensei](/images/2025-09-07_Europalehrgang_Laufen.jpg)
+
+Dieser Beitrag wurde auch auf Instagram veröffentlicht:
+
+{{< share-post https://www.instagram.com/p/DOZL_Uwij5l >}}
