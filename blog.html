@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.29">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-10ce70f913b154063846b369cfb67191.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6a47fb94e4cf58bc8e3abcee811f21c5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -112,7 +113,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -155,7 +156,8 @@ window.Quarto = {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/favicon/fav-icon_01.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <img src="./images/favicon/fav-icon_01.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./images/favicon/fav-icon_01.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
     <a href="mailto:info@iaido-dortmund.de" title="info@iaido-dortmund.de" class="quarto-navigation-tool px-1" aria-label="info@iaido-dortmund.de"><i class="bi bi-envelope"></i></a>
@@ -215,7 +217,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Kategorien</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">alle <span class="quarto-category-count">(8)</span></div><div class="category" data-category="QmllbGVmZWxk">Bielefeld <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QnVuZGVzbGVocmclQzMlQTRuZ2U=">Bundeslehrgänge <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGFuaWVsJTIwRGVOb29u">Daniel DeNoon <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RG9ydG11bmQ=">Dortmund <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHVpc2J1cmc=">Duisburg <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXVyb3BhbGVocmclQzMlQTRuZ2U=">Europalehrgänge <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SGlkZWFraSUyME1hdHN1bW90bw==">Hideaki Matsumoto <span class="quarto-category-count">(2)</span></div><div class="category" data-category="S2VuaWNoaSUyMEtvYmFyYQ==">Kenichi Kobara <span class="quarto-category-count">(1)</span></div><div class="category" data-category="S2V2ZWxhZXI=">Kevelaer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9jaGl6YWklMjBTaHVpY2hp">Mochizai Shuichi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TSVDMyVCQ25zdGVy">Münster <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHIlQzMlQkNmdW5n">Prüfung <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U3R1dHRnYXJ0">Stuttgart <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VHJhaW5pbmdzemVpdGVu">Trainingszeiten <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VFZFJTIwQmFyb3A=">TVE Barop <span class="quarto-category-count">(1)</span></div><div class="category" data-category="WWFzdXRvbW8lMjBNaXlhemF3YQ==">Yasutomo Miyazawa <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Kategorien</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">alle <span class="quarto-category-count">(9)</span></div><div class="category" data-category="QmllbGVmZWxk">Bielefeld <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QnVuZGVzbGVocmclQzMlQTRuZ2U=">Bundeslehrgänge <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGFuaWVsJTIwRGVOb29u">Daniel DeNoon <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RG9ydG11bmQ=">Dortmund <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHVpc2J1cmc=">Duisburg <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXVyb3BhbGVocmclQzMlQTRuZ2U=">Europalehrgänge <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SGlkZWFraSUyME1hdHN1bW90bw==">Hideaki Matsumoto <span class="quarto-category-count">(2)</span></div><div class="category" data-category="S2VuaWNoaSUyMEtvYmFyYQ==">Kenichi Kobara <span class="quarto-category-count">(1)</span></div><div class="category" data-category="S2V2ZWxhZXI=">Kevelaer <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TW9jaGl6YWklMjBTaHVpY2hp">Mochizai Shuichi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TSVDMyVCQ25zdGVy">Münster <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHIlQzMlQkNmdW5n">Prüfung <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U3R1dHRnYXJ0">Stuttgart <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VHJhaW5pbmdzemVpdGVu">Trainingszeiten <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VFZFJTIwQmFyb3A=">TVE Barop <span class="quarto-category-count">(1)</span></div><div class="category" data-category="WWFzdXRvbW8lMjBNaXlhemF3YQ==">Yasutomo Miyazawa <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -244,7 +246,36 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RXVyb3BhbGVocmclQzMlQTRuZ2UlMkNNb2NoaXphaSUyMFNodWljaGklMkNIaWRlYWtpJTIwTWF0c3Vtb3RvJTJDRGFuaWVsJTIwRGVOb29u" data-listing-date-sort="1757196000000" data-listing-file-modified-sort="1757448632033" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
+<div class="g-col-1" data-index="0" data-categories="S2V2ZWxhZXI=" data-listing-date-sort="1762556400000" data-listing-file-modified-sort="1764002377366" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<a href="./blog/2025-11-08_Gaesdonck/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/2025-11-08_Gaesdonck_Gruppenbild.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Zentraltraining NRW in Kevelaer
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('S2V2ZWxhZXI='); return false;">Kevelaer</div>
+
+</div>
+<div class="card-text listing-description delink">
+Am 8. November hat das Dojo Kevelaer erneut zu einem gemeinsamen Training eingeladen, dieses Mal unter Leitung des Bundestrainers Martin Peter Sensei. Darius, Dominik und…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+08.11.2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="RXVyb3BhbGVocmclQzMlQTRuZ2UlMkNNb2NoaXphaSUyMFNodWljaGklMkNIaWRlYWtpJTIwTWF0c3Vtb3RvJTJDRGFuaWVsJTIwRGVOb29u" data-listing-date-sort="1757196000000" data-listing-file-modified-sort="1757448632033" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
 <a href="./blog/2025-09-07_Europalehrgang_Laufen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -279,7 +310,7 @@ Zwei Mitglieder unseres Dojos, Richard und Nico, reisten am vergangenen Wochenen
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="QnVuZGVzbGVocmclQzMlQTRuZ2UlMkNQciVDMyVCQ2Z1bmclMkNTdHV0dGdhcnQ=" data-listing-date-sort="1747692000000" data-listing-file-modified-sort="1747727325188" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
+<div class="g-col-1" data-index="2" data-categories="QnVuZGVzbGVocmclQzMlQTRuZ2UlMkNQciVDMyVCQ2Z1bmclMkNTdHV0dGdhcnQ=" data-listing-date-sort="1747692000000" data-listing-file-modified-sort="1747727325188" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
 <a href="./blog/2025-05-17_BLG_Stuttgart/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -312,7 +343,7 @@ Zwei unserer Mitglieder, Darius und Nico, haben sich am vergangenen Wochenende a
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="QnVuZGVzbGVocmclQzMlQTRuZ2UlMkNQciVDMyVCQ2Z1bmclMkNCaWVsZWZlbGQ=" data-listing-date-sort="1740870000000" data-listing-file-modified-sort="1757448180976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
+<div class="g-col-1" data-index="3" data-categories="QnVuZGVzbGVocmclQzMlQTRuZ2UlMkNQciVDMyVCQ2Z1bmclMkNCaWVsZWZlbGQ=" data-listing-date-sort="1740870000000" data-listing-file-modified-sort="1757448180976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
 <a href="./blog/2025-03-01_BLG_Bielefeld/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -345,7 +376,7 @@ Leon, Richard und Nico hatten eine lehrreiche und sehr intensive Zeit auf dem Bu
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="S2V2ZWxhZXI=" data-listing-date-sort="1738364400000" data-listing-file-modified-sort="1747728975732" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<div class="g-col-1" data-index="4" data-categories="S2V2ZWxhZXI=" data-listing-date-sort="1738364400000" data-listing-file-modified-sort="1747728975732" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
 <a href="./blog/2025-02-01_Gaesdonck/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -374,7 +405,7 @@ Heute sind wir zu dritt einer Einladung des Dojo in Kevelaer zu einem informelle
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="RXVyb3BhbGVocmclQzMlQTRuZ2UlMkNLZW5pY2hpJTIwS29iYXJhJTJDSGlkZWFraSUyME1hdHN1bW90byUyQ0RhbmllbCUyMERlTm9vbg==" data-listing-date-sort="1726437600000" data-listing-file-modified-sort="1747728468824" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
+<div class="g-col-1" data-index="5" data-categories="RXVyb3BhbGVocmclQzMlQTRuZ2UlMkNLZW5pY2hpJTIwS29iYXJhJTJDSGlkZWFraSUyME1hdHN1bW90byUyQ0RhbmllbCUyMERlTm9vbg==" data-listing-date-sort="1726437600000" data-listing-file-modified-sort="1747728468824" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
 <a href="./blog/2024-09-15_Europalehrgang_Kienbaum/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -409,7 +440,7 @@ Am vergangenen Wochenende fand im Olympischen Trainingszentrum Kienbaum der jäh
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="TSVDMyVCQ25zdGVy" data-listing-date-sort="1723932000000" data-listing-file-modified-sort="1747728295773" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56">
+<div class="g-col-1" data-index="6" data-categories="TSVDMyVCQ25zdGVy" data-listing-date-sort="1723932000000" data-listing-file-modified-sort="1747728295773" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56">
 <a href="./blog/2024-08-18_SKDM/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -438,7 +469,7 @@ Heute sind Darius, Dominik, Richard und Jan zum Training zu unseren Freunden vom
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="RG9ydG11bmQlMkNUcmFpbmluZ3N6ZWl0ZW4lMkNUVkUlMjBCYXJvcA==" data-listing-date-sort="1699830000000" data-listing-file-modified-sort="1747728367166" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
+<div class="g-col-1" data-index="7" data-categories="RG9ydG11bmQlMkNUcmFpbmluZ3N6ZWl0ZW4lMkNUVkUlMjBCYXJvcA==" data-listing-date-sort="1699830000000" data-listing-file-modified-sort="1747728367166" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
 <a href="./blog/2023-11-13_TVE-Barop/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -471,7 +502,7 @@ Training in Dortmund Eichlinghofen über den TV Einigkeit Dortmund-Barop
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="RXVyb3BhbGVocmclQzMlQTRuZ2UlMkNEYW5pZWwlMjBEZU5vb24lMkNZYXN1dG9tbyUyME1peWF6YXdhJTJDRHVpc2J1cmc=" data-listing-date-sort="1693778400000" data-listing-file-modified-sort="1738613417008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
+<div class="g-col-1" data-index="8" data-categories="RXVyb3BhbGVocmclQzMlQTRuZ2UlMkNEYW5pZWwlMjBEZU5vb24lMkNZYXN1dG9tbyUyME1peWF6YXdhJTJDRHVpc2J1cmc=" data-listing-date-sort="1693778400000" data-listing-file-modified-sort="1738613417008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
 <a href="./blog/2023-09-04_Europalehrgang_Duisburg/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -560,13 +591,14 @@ Vom 1. bis zum 3. September 2023 fand der Europalehrgang in Duisburg mit Yasutom
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
