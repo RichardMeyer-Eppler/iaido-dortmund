@@ -1,5 +1,5 @@
 ---
-title: "Trainingsbesuch in Kevelaer"
+title: "Zentraltraining NRW in Kevelaer"
 date: 2025-11-08
 show_on_training: FALSE
 categories: [Kevelaer] # self-defined categories
@@ -8,10 +8,10 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 image: /images/2025-11-08_Gaesdonck_Gruppenbild.jpeg
 ---
 
-Heute sind wir zu dritt einer Einladung des Dojo in Kevelaer zu einem informellen gemeinsamen Training gefolgt. Neben uns waren noch Iaidoka aus Münster, Köln und Bielefeld mit dabei. Das Training fand auf dem Gelände des Collegium Augustinianum Gaesdonck statt, einem bischöflichen Gymnasium des Bistums Münster. Das Wetter war großartig, die Atmosphäre fantastisch und der ungewöhnliche Trainingsort sehr beeindruckend (als Filmkulisse für Harry Potter wäre Gaesdonck bestens geeignet!). Tausend Dank an Herbert und sein Dojo für die Einladung und Gastfreundschaft! 🙇‍♂️ Wenn alles nach Plan läuft, werden wir uns bald revanchieren! 😊
+Am 8. November hat das Dojo Kevelaer erneut zu einem gemeinsamen Training eingeladen, dieses Mal unter Leitung des Bundestrainers Martin Peter Sensei. Darius, Dominik und Matthias haben sich diese Chance auf ein intensives Training nicht entgehen lassen und sind hochmotiviert und mit vielen Korrekturen wieder nach Hause gereist.
 
-![Gruppenfoto in Gaesdonck](/images/2025-02-01_Gaesdonck2.jpg)
+![Matthias, Darius und Dominik](/images/2025-11-08_Gaesdonck_Kamiza.jpg){alt="Gruppenfoto in Gaesdonck"}
 
-Dieser Beitrag wurde auch auf Instagram veröffentlicht:
+Erneut Tausend Dank an Herbert und sein Dojo für die Einladung und Gastfreundschaft! 🙇‍♂️ Das Gruppenbild fängt die Stimmung ganz gut ein! 🤣
 
-{{< share-post https://www.instagram.com/p/DFn4VCtK769 >}}
+![Gruppenfoto in Gaesdonck](/images/2025-11-08_Gaesdonck_Gruppenbild.jpeg)
