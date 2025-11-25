@@ -10,7 +10,7 @@ image: /images/2025-11-08_Gaesdonck_Gruppenbild.jpeg
 
 Am 8. November hat das Dojo Kevelaer erneut zu einem gemeinsamen Training eingeladen, dieses Mal unter Leitung des Bundestrainers Martin Peter Sensei. Darius, Dominik und Matthias haben sich diese Chance auf ein intensives Training nicht entgehen lassen und sind hochmotiviert und mit vielen Korrekturen wieder nach Hause gereist.
 
-![Matthias, Darius und Dominik](/images/2025-11-08_Gaesdonck_Kamiza.jpg){alt="Gruppenfoto in Gaesdonck"}
+![Matthias, Darius und Dominik](/images/2025-11-08_Gaesdonck_Kamiza.jpg){fig-alt="Matthias, Darius und Dominik vor der Kamiza"}
 
 Erneut Tausend Dank an Herbert und sein Dojo für die Einladung und Gastfreundschaft! 🙇‍♂️ Das Gruppenbild fängt die Stimmung ganz gut ein! 🤣
 
