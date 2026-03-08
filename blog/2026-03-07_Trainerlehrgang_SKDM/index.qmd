@@ -1,12 +1,14 @@
 ---
-title: "Zentraltraining NRW in Kevelaer"
+title: "Training für Lehrende in Münster"
 date: 2026-03-07
-show_on_training FALSE
+show_on_training: FALSE
 categories: [Münster] # self-defined categories
 lang: de
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 image: /images/2026-03-07_Trainerlehrgang_SKDM.jpg
 ---
+
+![Erläuterungen zur Kata Sode Surigaeshi](/images/2026-03-07_Trainerlehrgang_SKDM.jpg)
 
 Diesen Samstag haben unsere Freunde in Münster ein besonderes Training für höherrangige Iaidoka ausgerichtet. Nach einer einführenden Einheit zum Nukitsuke nutzte Martin Peter Sensei die Gelegenheit, einige der Feinheiten von Tachiwaza, Tatehiza und Iawaza näher zu beleuchten. Er hat uns zudem eine Passage aus "Zen in der Kunst des kampflosen Kampfes" von Takuan Sōhō vorgelesen, um uns zu einem tieferen Verständnis unserer Selbst und der Kata zu inspirieren. Tausend Dank an die Gastgeber und an Martin Peter Sensei für diesen äußerst inspirierenden Nachmittag! 🙇
 
