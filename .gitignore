@@ -9,3 +9,4 @@ README.html
 /.quarto/
 /_site/
 **/*.quarto_ipynb
+.positai
