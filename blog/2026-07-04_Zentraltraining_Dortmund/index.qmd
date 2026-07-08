@@ -1,0 +1,25 @@
+---
+title: "Zentraltraining NRW in Dortmund!"
+date: 2026-07-04
+show_on_training: FALSE
+categories: [Dortmund, Prüfung, TVE Barop] # self-defined categories
+lang: de
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+image: /images/2026-07-04_Dortmund_Gruppenfoto.jpg
+---
+
+![Gruppenfoto vom Zentraltraining in Dortmund](/images/2026-07-04_Dortmund_Gruppenfoto.jpg)
+
+Diesen Samstag hat unser Dojo in Dortmund zum ersten Mal ein Seminar ausgerichtet! 30 Teilnehmerinnen und Teilnehmer aus Dortmund, Münster, Köln, Bielefeld und Kevelaer folgten unserer Einladung zu einem gemeinsamen Trainingstag.
+
+Unter der aufmerksamen Leitung von Martin Peter Sensei wurde es zu einem großartigen Tag voller Lachen, intensiver Übung und neuer Erkenntnisse. Besonders gefreut hat uns, dass fast die Hälfte der Teilnehmerinnen und Teilnehmer zum ersten Mal dabei war – ein schönes Zeichen für das anhaltende und gesunde Interesse an Iaido.
+
+Außerdem gratulieren wir herzlich unseren Dojo-Mitgliedern Jens, Darius, Nico und Leon zum erfolgreichen Bestehen ihrer Kyu-Prüfungen! ![🥳](https://static.xx.fbcdn.net/images/emoji.php/v9/t6d/1/16/1f973.png){alt="🥳"}![👏](https://static.xx.fbcdn.net/images/emoji.php/v9/tfe/1/16/1f44f.png){alt="👏"}
+
+Ein großes Dankeschön geht an den [TVE Barop](https://www.tve-barop.de/) der uns die Sporthalle zur Verfügung gestellt hat.
+
+Vielen Dank auch an Andreas Gövert für die wunderbaren Fotos – er hat sich Iaido zum ersten Mal angeschaut und dabei großartige Aufnahmen gemacht! ![📸](https://static.xx.fbcdn.net/images/emoji.php/v9/tde/1/16/1f4f8.png){alt="📸"}
+
+Dieser Beitrag wurde auch auf Instagram veröffentlicht:
+
+{{< share-post https://www.instagram.com/p/DaioqG-l3Oi >}}
