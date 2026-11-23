@@ -5,7 +5,7 @@ engine: knitr
 
 ## TVE Barop
 
-Vor Ort sind wir dem Freizeitsportangebot des [TV Einigkeit Dortmund-Barop](https://www.tve-barop.de/) angeschlossen. Für uns gilt der Beitragssatz "Leichtathletik / Freizeitsport". Zum Stand 01. Februar 2025 betragen die monatlichen Kosten für Erwachsene 14 Euro ([werde Mitglied beim TVE](https://www.tve-barop.de/tve/verein/werde-mitglied.html)).
+Vor Ort sind wir dem Freizeitsportangebot des [TV Einigkeit Dortmund-Barop](https://www.tve-barop.de/) angeschlossen. Für uns gilt der Beitragssatz "Leichtathletik / Freizeitsport". Zum Stand 01. Dezember 2026 betragen die monatlichen Kosten für Erwachsene 14 Euro, zuzüglich einer einmaligen Aufnahmegebühr von 15 Euro. Das Mitgliedsformular kann direkt online ausgefüllt werden ([werde Mitglied beim TVE](https://www.tve-barop.de/de/deine-mitgliedschaft/mitglied-werden/) und dann "Loslegen -\> Vollbeitrag -\> Abteilung Leichtathletik / Freizeitsport"). Der ermäßigte Monatsbeitrag für Studierende und Rentner liegt bei 11 Euro monatlich.
 
 ## Muso Jikiden Eishin Ryu Verband Deutschland e.V.
 
