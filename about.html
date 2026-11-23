@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-6a47fb94e4cf58bc8e3abcee811f21c5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -192,8 +195,20 @@ ul.task-list li input[type="checkbox"] {
 <p>Seit November 2023 sind wir dem Freizeitsportangebot des <a href="https://www.tve-barop.de/">TV Einigkeit Dortmund-Barop</a> angeschlossen und das Training findet im Stadtteil Eichlinghofen statt.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/2026-06-19_Gruppenfoto_Dortmund.jpg" class="img-fluid figure-img"></p>
+<p><a href="images/2026-11-20_Gruppenfoto_Dortmund.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Das Dortmunder Dojo in kleinerer Besetzung vor dem Weihnachtsessen im November 2026"><img src="images/2026-11-20_Gruppenfoto_Dortmund.jpg" class="img-fluid figure-img" alt="Das Dortmunder Dojo in kleinerer Besetzung vor dem Weihnachtsessen im November 2026"></a></p>
+<figcaption>Das Dortmunder Dojo in kleinerer Besetzung vor dem Weihnachtsessen im November 2026</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/2026-06-19_Gruppenfoto_Dortmund.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Das Dortmunder Dojo zum Stand Juni 2026"><img src="images/2026-06-19_Gruppenfoto_Dortmund.jpg" class="img-fluid figure-img" alt="Das Dortmunder Dojo zum Stand Juni 2026"></a></p>
 <figcaption>Das Dortmunder Dojo zum Stand Juni 2026</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/2025-02-07_Gruppenfoto_Dortmund.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Das Dortmunder Dojo zum Stand Februar 2025"><img src="images/2025-02-07_Gruppenfoto_Dortmund.jpg" class="img-fluid figure-img" alt="Das Dortmunder Dojo zum Stand Februar 2025"></a></p>
+<figcaption>Das Dortmunder Dojo zum Stand Februar 2025</figcaption>
 </figure>
 </div>
 <p>Von 2018 bis März 2021 gab es zuvor ein regelmäßiges Training in den Räumlichkeiten von <a href="https://web.archive.org/web/20240221193219/https://www.meintempel.de/">Mein Tempel - Dem Boutique Studio in Dortmund</a>. Leider musste das Studio während der Coronazeit dauerhaft geschlossen werden und es gabe eine Trainingspause von über zwei Jahren.</p>
@@ -222,7 +237,12 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 <p>In 2026 wurde er auf dem Europalehrgang in Laufen von Matsumoto Sensei und DeNoon Sensei erfolgreich zum <em>Godan</em> (5. Dan) geprüft.</p>
-<p><img src=".\images/2026-09-13_Europalehrgang_Laufen.jpg" class="img-fluid" alt="Gruppenfoto von Iaidoka aus Bielefeld und Dortmund mit Matsumoto Sensei und DeNoon Sensei">{Gruppenfoto von Iaidoka aus Bielefeld und Dortmund mit Matsumoto Sensei und DeNoon Sensei=““}</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src=".\images/2026-09-13_Europalehrgang_Laufen.jpg" class="img-fluid figure-img"></p>
+<figcaption>Gruppenfoto von Iaidoka aus Bielefeld und Dortmund mit Matsumoto Sensei und DeNoon Sensei</figcaption>
+</figure>
+</div>
 
 
 </section>
@@ -634,6 +654,38 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
