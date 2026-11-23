@@ -19,7 +19,11 @@ figcaption {
 
 Seit November 2023 sind wir dem Freizeitsportangebot des [TV Einigkeit Dortmund-Barop](https://www.tve-barop.de/) angeschlossen und das Training findet im Stadtteil Eichlinghofen statt.
 
-![Das Dortmunder Dojo zum Stand Juni 2026](images/2026-06-19_Gruppenfoto_Dortmund.jpg)
+![Das Dortmunder Dojo in kleinerer Besetzung vor dem Weihnachtsessen im November 2026](images/2026-11-20_Gruppenfoto_Dortmund.jpg){.lightbox}
+
+![Das Dortmunder Dojo zum Stand Juni 2026](images/2026-06-19_Gruppenfoto_Dortmund.jpg){.lightbox}
+
+![Das Dortmunder Dojo zum Stand Februar 2025](images/2025-02-07_Gruppenfoto_Dortmund.jpg){.lightbox}
 
 Von 2018 bis März 2021 gab es zuvor ein regelmäßiges Training in den Räumlichkeiten von [Mein Tempel - Dem Boutique Studio in Dortmund](https://web.archive.org/web/20240221193219/https://www.meintempel.de/). Leider musste das Studio während der Coronazeit dauerhaft geschlossen werden und es gabe eine Trainingspause von über zwei Jahren.
 
@@ -39,4 +43,4 @@ Von 2013 bis 2016 lebte er in Berlin und trainierte im dortigen [Esaka Dojo](htt
 
 In 2026 wurde er auf dem Europalehrgang in Laufen von Matsumoto Sensei und DeNoon Sensei erfolgreich zum *Godan* (5. Dan) geprüft.
 
-![Gruppenfoto von Iaidoka aus Bielefeld und Dortmund mit Matsumoto Sensei und DeNoon Sensei](/images/2026-09-13_Europalehrgang_Laufen.jpg){Gruppenfoto von Iaidoka aus Bielefeld und Dortmund mit Matsumoto Sensei und DeNoon Sensei=""}
+![Gruppenfoto von Iaidoka aus Bielefeld und Dortmund mit Matsumoto Sensei und DeNoon Sensei](/images/2026-09-13_Europalehrgang_Laufen.jpg)
